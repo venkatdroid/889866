@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "37hpkMPJr3GIZ2Uj8PHOTDrWZxKXeoG2W81Kyok0mknJ+6EJG44O2JGr15UkxRLV5aUW0ENyB95SnoOEQVAWxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\venki\\source\\handson\\Nunit\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venki\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\venki\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

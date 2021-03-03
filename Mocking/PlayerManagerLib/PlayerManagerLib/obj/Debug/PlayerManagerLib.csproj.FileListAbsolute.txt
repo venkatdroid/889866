@@ -1,0 +1,6 @@
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\bin\Debug\PlayerManagerLib.dll
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\bin\Debug\PlayerManagerLib.pdb
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\obj\Debug\PlayerManagerLib.csprojAssemblyReference.cache
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\obj\Debug\PlayerManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\obj\Debug\PlayerManagerLib.dll
+C:\Users\venki\source\repos\PlayerManagerLib\PlayerManagerLib\obj\Debug\PlayerManagerLib.pdb
