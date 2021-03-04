@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "ITOrganizations";
+}
+
+<h1>IT  Organizations in Hyderabad</h1>
+<ul>
+    @foreach (var item in ViewBag.List) {
+
+        if (item == "Amazon")
+        {
+        <li><b>@item </b></li>
+        }
+
+        else
+        {
+           <li>@item</li>
+        }
+
+
+    }
+</ul>
+

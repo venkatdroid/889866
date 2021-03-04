@@ -1,0 +1,10 @@
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\bin\Debug\Image_Form.exe.config
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\bin\Debug\Image_Form.exe
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\bin\Debug\Image_Form.pdb
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.csprojAssemblyReference.cache
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.Form1.resources
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.Properties.Resources.resources
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.csproj.GenerateResource.cache
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.csproj.CoreCompileInputs.cache
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.exe
+C:\Users\venki\source\handson\Windows Forms\Image_Form\Image_Form\obj\Debug\Image_Form.pdb

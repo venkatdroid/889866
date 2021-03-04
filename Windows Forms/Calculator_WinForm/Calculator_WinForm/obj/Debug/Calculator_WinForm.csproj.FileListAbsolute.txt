@@ -1,0 +1,10 @@
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.exe.config
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.exe
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\bin\Debug\Calculator_WinForm.pdb
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.csprojAssemblyReference.cache
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.Form1.resources
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.Properties.Resources.resources
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.csproj.GenerateResource.cache
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.exe
+C:\Users\venki\source\repos\Calculator_WinForm\Calculator_WinForm\obj\Debug\Calculator_WinForm.pdb

@@ -43,7 +43,7 @@ namespace UnitTest
         }
 
         [TestCase(9, 3, 3)]
-        [TestCase(25, 5, 5)]
+        [TestCase(25, 0, 5)]
         [TestCase(15,1,15)]
         public void DivisionTest(double a, double b, double expected)
         {
