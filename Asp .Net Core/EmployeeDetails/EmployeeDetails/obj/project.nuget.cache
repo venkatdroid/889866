@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wWdUuWA7Z9A5MGBDDZ2YB7CqsxqfRff389YT7rrcYMQ2c8ktrSor5t8gGzEd73EHBmjBQSDzEQbfE3/wdFCIw==",
+  "dgSpecHash": "U/M1AHa7aQQ+gtSPkTHL9+TkMDU27nV7mCeNl9eCBNOi3c/vUoXP5Ay2hGi71gZrQgJ5A32X2R3GCiZHp081NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\venki\\source\\repos\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+  "projectFilePath": "C:\\Users\\venki\\source\\handson\\Asp .Net Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\venki\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\venki\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

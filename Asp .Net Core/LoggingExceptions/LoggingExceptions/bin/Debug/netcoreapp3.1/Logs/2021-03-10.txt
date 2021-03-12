@@ -1,0 +1,39 @@
+2021-03-10 11:54:19,093 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-10 11:54:19,630 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-10 11:54:19,648 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-10 11:54:19,667 [1] INFO  App  
+ Content root path: C:\Users\venki\source\handson\Asp .Net Core\LoggingExceptions\LoggingExceptions 
+ 
+2021-03-10 11:54:20,213 [5] INFO  App  
+ Log System Initialized 
+ 
+2021-03-10 11:54:20,684 [5] ERROR App  
+ Exception Raised in Index and Handled in OnException 
+ 
+2021-03-10 11:54:21,001 [5] ERROR App  
+    at LoggingExceptions.Controllers.HomeController.Index() in C:\Users\venki\source\handson\Asp .Net Core\LoggingExceptions\LoggingExceptions\Controllers\HomeController.cs:line 23
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted) 
+ 
+2021-03-10 11:54:30,890 [4] ERROR App  
+ Exception Raised in Privacy and Handled in Controller 
+ 
+2021-03-10 11:54:30,908 [4] ERROR App  
+    at LoggingExceptions.Controllers.HomeController.Privacy() in C:\Users\venki\source\handson\Asp .Net Core\LoggingExceptions\LoggingExceptions\Controllers\HomeController.cs:line 31 
+ 

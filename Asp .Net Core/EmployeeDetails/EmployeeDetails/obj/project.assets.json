@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venki\\source\\repos\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+      "projectUniqueName": "C:\\Users\\venki\\source\\handson\\Asp .Net Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
       "projectName": "EmployeeDetails",
-      "projectPath": "C:\\Users\\venki\\source\\repos\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
+      "projectPath": "C:\\Users\\venki\\source\\handson\\Asp .Net Core\\EmployeeDetails\\EmployeeDetails\\EmployeeDetails.csproj",
       "packagesPath": "C:\\Users\\venki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venki\\source\\repos\\EmployeeDetails\\EmployeeDetails\\obj\\",
+      "outputPath": "C:\\Users\\venki\\source\\handson\\Asp .Net Core\\EmployeeDetails\\EmployeeDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\venki\\AppData\\Roaming\\NuGet\\NuGet.Config",
