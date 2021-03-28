@@ -1,0 +1,7 @@
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\venki\Downloads\SOLID_Principles_DotNet\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

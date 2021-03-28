@@ -1,0 +1,13 @@
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\venki\source\handson\Asp .Net Core\Patterns\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
